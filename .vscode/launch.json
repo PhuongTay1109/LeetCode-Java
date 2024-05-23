@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BestTimeToBuyAndSellStock",
+      "request": "launch",
+      "mainClass": "BestTimeToBuyAndSellStock",
+      "projectName": "LeetCode-Java_371c5921"
+    },
+    {
+      "type": "java",
       "name": "TwoSum",
       "request": "launch",
       "mainClass": "TwoSum",
