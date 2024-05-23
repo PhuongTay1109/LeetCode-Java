@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaximumDifferenceBetweenIncreasingElements",
+      "request": "launch",
+      "mainClass": "MaximumDifferenceBetweenIncreasingElements",
+      "projectName": "LeetCode-Java_371c5921"
+    },
+    {
+      "type": "java",
       "name": "BestTimeToBuyAndSellStock",
       "request": "launch",
       "mainClass": "BestTimeToBuyAndSellStock",
