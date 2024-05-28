@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ContainsDuplicateII",
+      "request": "launch",
+      "mainClass": "ContainsDuplicateII",
+      "projectName": "LeetCode-Java_8726d3e4"
+    },
+    {
+      "type": "java",
       "name": "ContainsDuplicate",
       "request": "launch",
       "mainClass": "ContainsDuplicate",
