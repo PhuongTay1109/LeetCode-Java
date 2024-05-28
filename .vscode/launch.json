@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ContainsDuplicate",
+      "request": "launch",
+      "mainClass": "ContainsDuplicate",
+      "projectName": "LeetCode-Java_8726d3e4"
+    },
+    {
+      "type": "java",
       "name": "MaximumAverageSubarrayI",
       "request": "launch",
       "mainClass": "MaximumAverageSubarrayI",
