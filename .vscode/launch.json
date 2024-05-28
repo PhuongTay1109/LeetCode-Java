@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaximumAverageSubarrayI",
+      "request": "launch",
+      "mainClass": "MaximumAverageSubarrayI",
+      "projectName": "LeetCode-Java_371c5921"
+    },
+    {
+      "type": "java",
       "name": "TwoFurthestHousesWithDifferentColors",
       "request": "launch",
       "mainClass": "TwoFurthestHousesWithDifferentColors",
