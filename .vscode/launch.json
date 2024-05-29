@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CanPlaceFlowers",
+      "request": "launch",
+      "mainClass": "CanPlaceFlowers",
+      "projectName": "LeetCode-Java_8726d3e4"
+    },
+    {
+      "type": "java",
       "name": "ContainsDuplicateII",
       "request": "launch",
       "mainClass": "ContainsDuplicateII",
