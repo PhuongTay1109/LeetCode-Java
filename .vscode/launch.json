@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ProductOfArrayExceptSelf",
+      "request": "launch",
+      "mainClass": "ProductOfArrayExceptSelf",
+      "projectName": "LeetCode-Java_8726d3e4"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "LeetCode-Java_8726d3e4"
+    },
+    {
+      "type": "java",
       "name": "ContainsDuplicateIII",
       "request": "launch",
       "mainClass": "ContainsDuplicateIII",
