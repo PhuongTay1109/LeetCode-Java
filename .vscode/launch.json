@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "IsSubsequence",
+      "request": "launch",
+      "mainClass": "IsSubsequence",
+      "projectName": "LeetCode-Java_8726d3e4"
+    },
+    {
+      "type": "java",
       "name": "ProductOfArrayExceptSelf",
       "request": "launch",
       "mainClass": "ProductOfArrayExceptSelf",
