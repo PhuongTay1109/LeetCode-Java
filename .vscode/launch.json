@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ContainerWithMostWater",
+      "request": "launch",
+      "mainClass": "ContainerWithMostWater",
+      "projectName": "LeetCode-Java_8726d3e4"
+    },
+    {
+      "type": "java",
       "name": "ReverseWordsInAString",
       "request": "launch",
       "mainClass": "ReverseWordsInAString",
