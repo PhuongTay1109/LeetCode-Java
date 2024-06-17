@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NextGreateElementI",
+      "request": "launch",
+      "mainClass": "NextGreateElementI",
+      "projectName": "LeetCode-Java_8726d3e4"
+    },
+    {
+      "type": "java",
+      "name": "NextGreaterElement",
+      "request": "launch",
+      "mainClass": "NextGreaterElement",
+      "projectName": "LeetCode-Java_8726d3e4"
+    },
+    {
+      "type": "java",
       "name": "ValidParentheses",
       "request": "launch",
       "mainClass": "ValidParentheses",
