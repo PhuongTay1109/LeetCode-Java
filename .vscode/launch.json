@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ThreeSum",
+      "request": "launch",
+      "mainClass": "ThreeSum",
+      "projectName": "LeetCode-Java_8726d3e4"
+    },
+    {
+      "type": "java",
       "name": "NextGreateElementI",
       "request": "launch",
       "mainClass": "NextGreateElementI",
