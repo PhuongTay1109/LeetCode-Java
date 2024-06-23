@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SearchInsertPosition",
+      "request": "launch",
+      "mainClass": "SearchInsertPosition",
+      "projectName": "LeetCode-Java_8726d3e4"
+    },
+    {
+      "type": "java",
       "name": "Sqrt_x",
       "request": "launch",
       "mainClass": "Sqrt_x",
