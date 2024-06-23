@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinumumOperationsToExceedThresholdValueI",
+      "request": "launch",
+      "mainClass": "MinumumOperationsToExceedThresholdValueI",
+      "projectName": "LeetCode-Java_8726d3e4"
+    },
+    {
+      "type": "java",
       "name": "SearchInsertPosition",
       "request": "launch",
       "mainClass": "SearchInsertPosition",
