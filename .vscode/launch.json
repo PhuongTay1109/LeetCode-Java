@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Sqrt_x",
+      "request": "launch",
+      "mainClass": "Sqrt_x",
+      "projectName": "LeetCode-Java_8726d3e4"
+    },
+    {
+      "type": "java",
       "name": "BinarySearch",
       "request": "launch",
       "mainClass": "BinarySearch",
